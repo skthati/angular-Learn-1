@@ -22,8 +22,20 @@ export const products = [
     id: 3,
     name: 'Phone Standard',
     price: 299,
-    description: '3rd Product'
-  }
+    description: ''
+  },
+  {
+    id: 4,
+    name: 'iPhone 13',
+    price: 1699,
+    description: 'A great phone with one of the best cameras'
+  },
+  {
+    id: 5,
+    name: 'Samsung S22',
+    price: 1599,
+    description: 'A great phone with one of the best cameras'
+  },
 ];
 
 
