@@ -20,7 +20,8 @@
 
     <div class="col-2 mx-2 ">
         <app-product-alerts 
-          [product]= "product">
+          [product] = "product"
+          (notify)= "onNotify()">
         </app-product-alerts>
     </div>
   </div>
